@@ -1,4 +1,5 @@
 import os
+import csv
 
 from requests import Session, Response
 from json import dumps
